@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<a href="https://app.daily.dev/manofskin"><img src="https://api.daily.dev/devcards/v2/pvWTl8vTHcJvGOJuqICra.png?r=c9t" width="356" alt="Josué de Almeida Rodrigues's Dev Card"/></a>
 <!--
 **ManOfSkin/ManOfSkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
