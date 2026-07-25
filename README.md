@@ -21,7 +21,7 @@ Anciennement apprenti à la **Direction des Services Informatiques de La Banque 
 
 ### Ce que je recherche
 
-- 🎓 **Alternance de 12 mois** — Master MSc Robotique & Objets Connectés, Epitech Bordeaux (rythme : 6 semaines en entreprise avec 1 jour/semaine à Epitech, puis 2 semaines de cours)
+- 🎓 **Alternance pour 2 ans** — Master MSc Robotique & Objets Connectés, Epitech Bordeaux (rythme : 6 semaines en entreprise avec 1 jour/semaine à Epitech, puis 2 semaines de cours)
 - 🔧 **Développement full-stack** — applications web, APIs, microservices
 - 🌐 **Projets IoT & infrastructure** — objets connectés, architecture réseau, intégration système
 
