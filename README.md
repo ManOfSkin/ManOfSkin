@@ -130,19 +130,6 @@ Support hotline dans le cadre du projet « Allo Le CAN » de Bordeaux Métropole
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-
-
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManOfSkin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManOfSkin&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## Ma façon de travailler
 
 **Rigueur et conformité** — Développement dans le respect des normes et procédures, documentation systématique, suivi de mise en production. Expérience en environnement bancaire et institutionnel.
